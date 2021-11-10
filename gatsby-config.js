@@ -10,5 +10,6 @@ module.exports = {
         trackingId: "G-K3HPT5C2ZY",
       },
     },
+    'gatsby-plugin-postcss'
   ],
 };
